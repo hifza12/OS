@@ -1,0 +1,15 @@
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\bin\Debug\FF.exe.config
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\bin\Debug\FF.exe
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\bin\Debug\FF.pdb
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\obj\Debug\FF.csprojAssemblyReference.cache
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\obj\Debug\FF.csproj.CoreCompileInputs.cache
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\obj\Debug\FF.exe
+C:\Users\Neha\Desktop\fall21\CC\Project(operators and if else)\FF\FF\obj\Debug\FF.pdb
+D:\PROJECT-CC\New folder (2)\FF\FF\bin\Debug\FF.exe.config
+D:\PROJECT-CC\New folder (2)\FF\FF\bin\Debug\FF.exe
+D:\PROJECT-CC\New folder (2)\FF\FF\bin\Debug\FF.pdb
+D:\PROJECT-CC\New folder (2)\FF\FF\obj\Debug\FF.csproj.AssemblyReference.cache
+D:\PROJECT-CC\New folder (2)\FF\FF\obj\Debug\FF.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT-CC\New folder (2)\FF\FF\obj\Debug\FF.csproj.CoreCompileInputs.cache
+D:\PROJECT-CC\New folder (2)\FF\FF\obj\Debug\FF.exe
+D:\PROJECT-CC\New folder (2)\FF\FF\obj\Debug\FF.pdb
